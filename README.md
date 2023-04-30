@@ -46,13 +46,12 @@ Palacios</a></h1>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 
-### Blogs posts
+### Proyectos personales
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Aplicación web para fotografia](http://herney400.pythonanywhere.com/)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+ 
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -60,6 +59,8 @@ Palacios</a></h1>
 
 
 -  [La Ruta de Python Django Fullstack Developer](	https://www.udemy.com/course/la-ruta-de-python-django/learn/lecture/27794780?start=0#overview)
+-  [Marco de trabajo ágil y devops](https://drive.google.com/file/d/1nIblsS0Ea8k1o5ujV8dwmZPd66wv6eBu/view?usp=sharing=)
+
 ### ⚙️ &nbsp;Analiticas de Github
 
 <p align="center">
