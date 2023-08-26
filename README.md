@@ -56,8 +56,8 @@ Palacios</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Aplicación web para fotografia](http://herney400.pythonanywhere.com/)
-- [Aplicación para control de camiones de carga](https://vetter.pythonanywhere.com/)
+- [Aplicación web para fotografia desarrollada en django con pyhton](http://herney400.pythonanywhere.com/) 
+- [Aplicación para control de camiones de carga desarrollada en django con pyhton](https://vetter.pythonanywhere.com/)
  
 <!-- BLOG-POST-LIST:END -->
 
