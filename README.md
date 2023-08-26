@@ -52,7 +52,7 @@ Palacios</a></h1>
 
 
 
-### Proyectos desarrollador
+### Proyectos desarrollado
 
 <!-- BLOG-POST-LIST:START -->
 
