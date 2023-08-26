@@ -15,6 +15,7 @@ Palacios</a></h1>
 - 🌱 Estoy aprendiendo Kotlin 
 - 🌱 Trabajando en el desarrollo de app web App(Django - Python) <a href="http://herney400.pythonanywhere.com/" target="blank">SIRIUS</a>
 
+
 - 🤝 Disponible para trabajar como tester.
 
 - 🌱 Estoy aprendiendo Kotlin <a href="https://developer.android.com/courses?hl=es-419" target="blank">Conceptos básicos de Kotlin para Android</a> 
@@ -51,11 +52,12 @@ Palacios</a></h1>
 
 
 
-### Proyectos personales
+### Proyectos desarrollador
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Aplicación web para fotografia](http://herney400.pythonanywhere.com/)
+- [Aplicación para control de camiones de carga](https://vetter.pythonanywhere.com/)
  
 <!-- BLOG-POST-LIST:END -->
 
